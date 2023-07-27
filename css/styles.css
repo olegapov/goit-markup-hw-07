@@ -1459,6 +1459,7 @@ button {
   .hero {
     padding-top: 188px;
     padding-bottom: 188px;
+    max-width: 1440px;
   }
 
   .hero-bg {
